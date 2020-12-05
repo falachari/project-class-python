@@ -7,12 +7,20 @@ Nama Perusahaan  : ABC
 Alamat           : Jl. Jendral Sudirman, Blok 11
 Telepon          : (021) 95812XX
 
+
 Nama	Usia	Pekerjaan	        Pendapatan
+
 Ani	  25	  Pembersih Data	  -
+
 Budi	18	  Dokumenter Teknis	-
+
 Cici	-	    Ilmuwan Data	    -
+
 Didi	32	  Ilmuwan Data	    20000000
+
 Efi	  -	    Analis Data	      -
+
 Febi	28	  Analis Data	      12000000
+
 
 Note: saat usia/pendapatan kosong maka usia/pendapatan mengikuti standar perusahaan.
